@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio1/static/css/main.ad13676c.css",
+    "main.js": "/portfolio1/static/js/main.3e4f8e9b.js",
+    "static/media/coffee-apple.jpg": "/portfolio1/static/media/coffee-apple.a0c19713a15fff3f3cff.jpg",
+    "static/media/react.png": "/portfolio1/static/media/react.e3c4d28a8f7c5cce174e.png",
+    "static/media/html-css-javascript-lg.jpg": "/portfolio1/static/media/html-css-javascript-lg.91568b1416dddce7652e.jpg",
+    "static/media/javascript-fullstack.jpg": "/portfolio1/static/media/javascript-fullstack.f5822e7b22d28ca8d914.jpg",
+    "static/media/react-redux.jpg": "/portfolio1/static/media/react-redux.fb61d4562a822c5bb24c.jpg",
+    "static/media/mern-stack.jpg": "/portfolio1/static/media/mern-stack.64b9cbddb7ab105f03de.jpg",
+    "static/media/my image2.jpg": "/portfolio1/static/media/my image2.0417e257ec492bdb1024.jpg",
+    "static/media/html-css-javascript.jpg": "/portfolio1/static/media/html-css-javascript.3ead675491c2e51d9976.jpg",
+    "index.html": "/portfolio1/index.html",
+    "main.ad13676c.css.map": "/portfolio1/static/css/main.ad13676c.css.map",
+    "main.3e4f8e9b.js.map": "/portfolio1/static/js/main.3e4f8e9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad13676c.css",
+    "static/js/main.3e4f8e9b.js"
+  ]
+}

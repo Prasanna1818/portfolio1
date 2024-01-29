@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.ad13676c.css","mappings":"AAAA,KACE,kGAA+D,CAI/D,qBACF","sources":["App.css"],"sourcesContent":["body {\r\n  background: url(coffee-apple.jpg) no-repeat center center fixed;\r\n  -webkit-background-size: cover;\r\n  -moz-background-size: cover;\r\n  -o-background-size: cover;\r\n  background-size: cover;\r\n}\r\n"],"names":[],"sourceRoot":""}
